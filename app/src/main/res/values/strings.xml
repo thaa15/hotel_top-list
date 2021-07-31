@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Top Hotel</string>
+    <string name="hotels_name">Nama Hotel</string>
+    <string name="price">Harga</string>
+    <string name="rate">0</string>
+    <string name="detail_button">DETAIL</string>
+    <string name="image">image</string>
+    <string name="my_name">THARIQ HADYAN</string>
+    <string name="my_email">thariqh15@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="hubungi">Hubungi</string>
+    <string name="detail">Detail</string>
+    <string name="gambar_hotel">Gambar Hotel</string>
+</resources>
